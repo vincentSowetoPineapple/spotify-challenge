@@ -1,0 +1,6 @@
+module Pods_SpotifyChallenge2 {
+  umbrella header "Pods-SpotifyChallenge2-umbrella.h"
+
+  export *
+  module * { export * }
+}
